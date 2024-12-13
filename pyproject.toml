@@ -1,8 +1,8 @@
 [build-system]
 requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"
-
-[project]
+/fix
+[ ]
 name = "jpl-rosa"
 version = "1.0.7"
 description = "ROSA: the Robot Operating System Agent"
